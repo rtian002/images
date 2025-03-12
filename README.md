@@ -9,5 +9,9 @@ https://raw.githubusercontent.com/rtian002/images/main/wukong.jpg
 # 将 raw.githubusercontent.com 替换为 raw.gitmirror.com
 https://raw.gitmirror.com/rtian002/images/main/wukong.jpg
 ```
-
+```
+#https://cdn.gitmirror.com
+# GitHub /gh/:user/:repo/:tag/:file
+https://cdn.gitmirror.com/gh/rtian002/images/main/wukong.jpg
+```
 
