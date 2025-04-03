@@ -15,3 +15,8 @@ https://raw.gitmirror.com/rtian002/images/main/wukong.jpg
 https://cdn.gitmirror.com/gh/rtian002/images/main/wukong.jpg
 ```
 
+```
+# releases文件链接前加https://hub.gitmirror.com/
+# typecho博客程序（已展开，解压即用；内含first.sh初始化配置程序）
+https://hub.gitmirror.com/https://github.com/rtian002/images/releases/download/typecho/typecho.tar.gz
+```
